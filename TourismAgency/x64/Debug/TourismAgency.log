@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\vlads\Desktop\Vlad\Scoala\AN II - Sem 1\Programare Orientata pe Obiecte\Aplicatii\TourismAgency\TourismAgency\Source.cpp(108,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vlads\Desktop\Vlad\Scoala\AN II - Sem 1\Programare Orientata pe Obiecte\Aplicatii\TourismAgency\TourismAgency\Source.cpp(131,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vlads\Desktop\Vlad\Scoala\AN II - Sem 1\Programare Orientata pe Obiecte\Aplicatii\TourismAgency\TourismAgency\Source.cpp(155,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vlads\Desktop\Vlad\Scoala\AN II - Sem 1\Programare Orientata pe Obiecte\Aplicatii\TourismAgency\TourismAgency\Source.cpp(161,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vlads\Desktop\Vlad\Scoala\AN II - Sem 1\Programare Orientata pe Obiecte\Aplicatii\TourismAgency\TourismAgency\Source.cpp(169,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vlads\Desktop\Vlad\Scoala\AN II - Sem 1\Programare Orientata pe Obiecte\Aplicatii\TourismAgency\TourismAgency\Source.cpp(180,22): warning C4018: '<': signed/unsigned mismatch
+  TourismAgency.vcxproj -> C:\Users\vlads\Desktop\Vlad\Scoala\AN II - Sem 1\Programare Orientata pe Obiecte\Aplicatii\TourismAgency\x64\Debug\TourismAgency.exe
